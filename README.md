@@ -3,6 +3,11 @@
 ## Overview
 This project analyzes IPL match data to identify winning patterns, batting trends, bowling impact, toss influence, and match-phase performance.
 
+## Project Objective
+Analyze IPL match data across five seasons to identify
+winning patterns, batting and bowling performance,
+toss impact, and match-phase trends using data analytics.
+
 ## Tools Used
 - Python
 - Pandas
@@ -21,4 +26,6 @@ This project analyzes IPL match data to identify winning patterns, batting trend
 - ipl_matches.json
 
 ## Author
-Janani
+Janani S
+B.Sc Computer Science (Data Science & Visualization)
+Aspiring Data Analyst
